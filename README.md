@@ -1,4 +1,4 @@
-# Rio Sato — Portfolio
+# Rio's Portfolio
 
 Personal portfolio site, live at **[srjoy5000.github.io](https://srjoy5000.github.io)**.
 
